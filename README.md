@@ -1,5 +1,8 @@
 # Configuration
 
+`docker-compose build`
+`docker-compose up`
+
 ## Create test topic 
 
 connect to the container
